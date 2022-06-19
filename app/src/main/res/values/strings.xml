@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cartao de Visitas</string>
+    <string name="txt_card_title">Cartão de Visitas</string>
+    <string name="btn_add_card">Botão de Adicionar Cartão</string>
+    <string name="txt_new_card_title">Novo Cartão</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_company">Nome da empresa</string>
+    <string name="hint_color">Escolher Cor do Cartão</string>
+    <string name="btn_confirm">Confirmar</string>
+    <string name="sucesso">Cartão cadastrado com sucesso</string>
+    <string name="share">Compartilhar</string>
+    <string name="btn_close">Botão para fechar</string>
+</resources>
